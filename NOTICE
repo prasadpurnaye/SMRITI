@@ -1,0 +1,16 @@
+SMRITI
+Structured Memory Residue Inspection and Thermal Intelligence
+
+Copyright (c) 2026 Prasad Purnaye
+
+This product includes software developed by Prasad Purnaye.
+
+SMRITI is a forensic memory analysis and visualization toolkit for
+ELF-based RAM dump inspection, entropy heatmap generation, and volatile
+artifact analysis.
+
+The names “SMRITI” and “Structured Memory Residue Inspection and Thermal
+Intelligence” are used to identify the original project. Use of these names
+does not imply endorsement, certification, or approval by the author.
+
+Licensed under the Apache License, Version 2.0.
