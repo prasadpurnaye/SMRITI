@@ -12,4 +12,4 @@ Use of the software does not grant permission to imply endorsement,
 certification, partnership, or approval by the author or any affiliated
 institution.
 
-Read NOTICE, TERMS.md and LICENSE.md for further details
+Read NOTICE, TERMS.md and LICENSE for further details
